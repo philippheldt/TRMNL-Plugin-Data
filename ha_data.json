@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-09T21:30:01.849463",
+  "timestamp": "2026-05-09T21:45:01.608437",
   "data": [
     {
       "entity_id": "sensor.pv_power",
-      "state": "22",
+      "state": "6",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -22,7 +22,7 @@
     },
     {
       "entity_id": "sensor.active_power",
-      "state": "3",
+      "state": "-3",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -30,18 +30,18 @@
         "icon": "mdi:transmission-tower",
         "friendly_name": "aktuelle Netzeinspeisung"
       },
-      "last_changed": "2026-05-09T19:29:56.024291+00:00",
-      "last_reported": "2026-05-09T19:29:56.024291+00:00",
-      "last_updated": "2026-05-09T19:29:56.024291+00:00",
+      "last_changed": "2026-05-09T19:45:00.023023+00:00",
+      "last_reported": "2026-05-09T19:45:00.023023+00:00",
+      "last_updated": "2026-05-09T19:45:00.023023+00:00",
       "context": {
-        "id": "01KR73FGSRJXMNYC26Y9J5C0FD",
+        "id": "01KR74B3KQYHWBCK939DXN6ZPW",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.house_consumption",
-      "state": "183",
+      "state": "172",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -49,11 +49,11 @@
         "icon": "mdi:power-plug-outline",
         "friendly_name": "aktueller Verbrauch"
       },
-      "last_changed": "2026-05-09T19:29:56.035271+00:00",
-      "last_reported": "2026-05-09T19:29:56.035271+00:00",
-      "last_updated": "2026-05-09T19:29:56.035271+00:00",
+      "last_changed": "2026-05-09T19:45:00.034216+00:00",
+      "last_reported": "2026-05-09T19:45:00.034216+00:00",
+      "last_updated": "2026-05-09T19:45:00.034216+00:00",
       "context": {
-        "id": "01KR73FGT3SK7HNQ5QQSM7M3WA",
+        "id": "01KR74B3M2A5QJHEZD05ZZAYRF",
         "parent_id": null,
         "user_id": null
       }
@@ -79,18 +79,18 @@
     },
     {
       "entity_id": "sensor.eta_sys_aussentemperatur",
-      "state": "17.1",
+      "state": "16.5",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "\u00b0C",
         "device_class": "temperature",
         "friendly_name": "Au\u00dfentemperatur"
       },
-      "last_changed": "2026-05-09T19:29:18.808835+00:00",
-      "last_reported": "2026-05-09T19:29:18.808835+00:00",
-      "last_updated": "2026-05-09T19:29:18.808835+00:00",
+      "last_changed": "2026-05-09T19:44:18.853854+00:00",
+      "last_reported": "2026-05-09T19:44:18.853854+00:00",
+      "last_updated": "2026-05-09T19:44:18.853854+00:00",
       "context": {
-        "id": "01KR73ECER70383935ZC5ZAR1Q",
+        "id": "01KR749VD58PF55NWQ5YEF7AK9",
         "parent_id": null,
         "user_id": null
       }
