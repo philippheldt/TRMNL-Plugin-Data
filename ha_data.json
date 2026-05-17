@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T04:45:03.059165",
+  "timestamp": "2026-05-17T05:00:02.285769",
   "data": [
     {
       "entity_id": "sensor.pv_power",
@@ -22,7 +22,7 @@
     },
     {
       "entity_id": "sensor.active_power",
-      "state": "12",
+      "state": "-3",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -30,18 +30,18 @@
         "icon": "mdi:transmission-tower",
         "friendly_name": "aktuelle Netzeinspeisung"
       },
-      "last_changed": "2026-05-17T02:44:59.817423+00:00",
-      "last_reported": "2026-05-17T02:44:59.817423+00:00",
-      "last_updated": "2026-05-17T02:44:59.817423+00:00",
+      "last_changed": "2026-05-17T03:00:00.819641+00:00",
+      "last_reported": "2026-05-17T03:00:00.819641+00:00",
+      "last_updated": "2026-05-17T03:00:00.819641+00:00",
       "context": {
-        "id": "01KRSX55S91Y1P8M55G1DSRZV2",
+        "id": "01KRSY0NNK7B2WSQBB4J7KM0CG",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.house_consumption",
-      "state": "195",
+      "state": "181",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -49,11 +49,11 @@
         "icon": "mdi:power-plug-outline",
         "friendly_name": "aktueller Verbrauch"
       },
-      "last_changed": "2026-05-17T02:44:54.833390+00:00",
-      "last_reported": "2026-05-17T02:44:59.828461+00:00",
-      "last_updated": "2026-05-17T02:44:54.833390+00:00",
+      "last_changed": "2026-05-17T03:00:00.830680+00:00",
+      "last_reported": "2026-05-17T03:00:00.830680+00:00",
+      "last_updated": "2026-05-17T03:00:00.830680+00:00",
       "context": {
-        "id": "01KRSX50XH7250CZPDB2M3TVFX",
+        "id": "01KRSY0NNY14KYC186FQD7T6FH",
         "parent_id": null,
         "user_id": null
       }
@@ -79,18 +79,18 @@
     },
     {
       "entity_id": "sensor.eta_sys_aussentemperatur",
-      "state": "5.5",
+      "state": "5.3",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "\u00b0C",
         "device_class": "temperature",
         "friendly_name": "Au\u00dfentemperatur"
       },
-      "last_changed": "2026-05-17T02:39:32.421844+00:00",
-      "last_reported": "2026-05-17T02:44:32.433728+00:00",
-      "last_updated": "2026-05-17T02:39:32.421844+00:00",
+      "last_changed": "2026-05-17T02:57:32.446593+00:00",
+      "last_reported": "2026-05-17T02:59:32.441245+00:00",
+      "last_updated": "2026-05-17T02:57:32.446593+00:00",
       "context": {
-        "id": "01KRSWV625ABEYSE07MHJ4A8SB",
+        "id": "01KRSXW4RYJBEN60W0WX0R4DS0",
         "parent_id": null,
         "user_id": null
       }
