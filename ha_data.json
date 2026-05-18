@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-18T14:15:07.363431",
+  "timestamp": "2026-05-18T14:30:01.958734",
   "data": [
     {
       "entity_id": "sensor.pv_power",
-      "state": "5958",
+      "state": "4789",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -11,18 +11,18 @@
         "icon": "mdi:solar-power",
         "friendly_name": "aktuelle PV Leistung"
       },
-      "last_changed": "2026-05-18T12:15:02.822995+00:00",
-      "last_reported": "2026-05-18T12:15:02.822995+00:00",
-      "last_updated": "2026-05-18T12:15:02.822995+00:00",
+      "last_changed": "2026-05-18T12:29:58.815693+00:00",
+      "last_reported": "2026-05-18T12:29:58.815693+00:00",
+      "last_updated": "2026-05-18T12:29:58.815693+00:00",
       "context": {
-        "id": "01KRXG5P56FG0ENGWF1NRX1JEP",
+        "id": "01KRXH114ZCYMNR0NB6T899624",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.active_power",
-      "state": "2728",
+      "state": "2808",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -30,18 +30,18 @@
         "icon": "mdi:transmission-tower",
         "friendly_name": "aktuelle Netzeinspeisung"
       },
-      "last_changed": "2026-05-18T12:15:02.825384+00:00",
-      "last_reported": "2026-05-18T12:15:02.825384+00:00",
-      "last_updated": "2026-05-18T12:15:02.825384+00:00",
+      "last_changed": "2026-05-18T12:29:58.817992+00:00",
+      "last_reported": "2026-05-18T12:29:58.817992+00:00",
+      "last_updated": "2026-05-18T12:29:58.817992+00:00",
       "context": {
-        "id": "01KRXG5P59DASSZ30B8QYZ6XC5",
+        "id": "01KRXH1151HVQ9FCNKCGTW00XV",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.house_consumption",
-      "state": "710",
+      "state": "618",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -49,18 +49,18 @@
         "icon": "mdi:power-plug-outline",
         "friendly_name": "aktueller Verbrauch"
       },
-      "last_changed": "2026-05-18T12:15:02.836424+00:00",
-      "last_reported": "2026-05-18T12:15:02.836424+00:00",
-      "last_updated": "2026-05-18T12:15:02.836424+00:00",
+      "last_changed": "2026-05-18T12:29:58.829120+00:00",
+      "last_reported": "2026-05-18T12:29:58.829120+00:00",
+      "last_updated": "2026-05-18T12:29:58.829120+00:00",
       "context": {
-        "id": "01KRXG5P5MQNR894CFWJFR9AKG",
+        "id": "01KRXH115DJA4G6DR027W1HYZS",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.battery_state_of_charge",
-      "state": "100",
+      "state": "99",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "%",
@@ -68,29 +68,29 @@
         "icon": "mdi:battery-high",
         "friendly_name": "Ladezustand Batterie"
       },
-      "last_changed": "2026-05-18T11:58:18.838236+00:00",
-      "last_reported": "2026-05-18T11:58:18.838236+00:00",
-      "last_updated": "2026-05-18T11:58:18.838236+00:00",
+      "last_changed": "2026-05-18T12:25:07.841908+00:00",
+      "last_reported": "2026-05-18T12:25:07.841908+00:00",
+      "last_updated": "2026-05-18T12:25:07.841908+00:00",
       "context": {
-        "id": "01KRXF71PP7HV8J06X231A5BAV",
+        "id": "01KRXGR5017S7D93FASKSM2ERR",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.eta_sys_aussentemperatur",
-      "state": "18.7",
+      "state": "18.6",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "\u00b0C",
         "device_class": "temperature",
         "friendly_name": "Au\u00dfentemperatur"
       },
-      "last_changed": "2026-05-18T12:13:34.914871+00:00",
-      "last_reported": "2026-05-18T12:13:34.914871+00:00",
-      "last_updated": "2026-05-18T12:13:34.914871+00:00",
+      "last_changed": "2026-05-18T12:29:34.931464+00:00",
+      "last_reported": "2026-05-18T12:29:34.931464+00:00",
+      "last_updated": "2026-05-18T12:29:34.931464+00:00",
       "context": {
-        "id": "01KRXG30A2YMXQMAKECH01ZQBS",
+        "id": "01KRXH09TKXDH5MTJRC15QGF0R",
         "parent_id": null,
         "user_id": null
       }
