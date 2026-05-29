@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-29T05:00:03.965294",
+  "timestamp": "2026-05-29T05:15:03.424506",
   "data": [
     {
       "entity_id": "sensor.pv_power",
@@ -22,7 +22,7 @@
     },
     {
       "entity_id": "sensor.active_power",
-      "state": "11",
+      "state": "18",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -30,18 +30,18 @@
         "icon": "mdi:transmission-tower",
         "friendly_name": "aktuelle Netzeinspeisung"
       },
-      "last_changed": "2026-05-29T03:00:02.823296+00:00",
-      "last_reported": "2026-05-29T03:00:02.823296+00:00",
-      "last_updated": "2026-05-29T03:00:02.823296+00:00",
+      "last_changed": "2026-05-29T03:15:02.818350+00:00",
+      "last_reported": "2026-05-29T03:15:02.818350+00:00",
+      "last_updated": "2026-05-29T03:15:02.818350+00:00",
       "context": {
-        "id": "01KSRTSBM78RYSKWKW5WBD6BTB",
+        "id": "01KSRVMTH2VKNAC64G8SK8Q6TT",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.house_consumption",
-      "state": "220",
+      "state": "228",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -49,18 +49,18 @@
         "icon": "mdi:power-plug-outline",
         "friendly_name": "aktueller Verbrauch"
       },
-      "last_changed": "2026-05-29T03:00:02.834381+00:00",
-      "last_reported": "2026-05-29T03:00:02.834381+00:00",
-      "last_updated": "2026-05-29T03:00:02.834381+00:00",
+      "last_changed": "2026-05-29T03:14:57.829325+00:00",
+      "last_reported": "2026-05-29T03:14:57.829325+00:00",
+      "last_updated": "2026-05-29T03:14:57.829325+00:00",
       "context": {
-        "id": "01KSRTSBMJ3WREA8W63D229NZ9",
+        "id": "01KSRVMNN5DT2AD920JRJY91EM",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.battery_state_of_charge",
-      "state": "65",
+      "state": "64",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "%",
@@ -68,29 +68,29 @@
         "icon": "mdi:battery-high",
         "friendly_name": "Ladezustand Batterie"
       },
-      "last_changed": "2026-05-29T02:44:31.845422+00:00",
-      "last_reported": "2026-05-29T02:44:31.845422+00:00",
-      "last_updated": "2026-05-29T02:44:31.845422+00:00",
+      "last_changed": "2026-05-29T03:00:12.822246+00:00",
+      "last_reported": "2026-05-29T03:00:12.822246+00:00",
+      "last_updated": "2026-05-29T03:00:12.822246+00:00",
       "context": {
-        "id": "01KSRSWYF5D2G4GY576TRFBQPZ",
+        "id": "01KSRTSNCPHRG9BYFJ8ZDCSM0A",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.eta_sys_aussentemperatur",
-      "state": "13.4",
+      "state": "13.1",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "\u00b0C",
         "device_class": "temperature",
         "friendly_name": "Au\u00dfentemperatur"
       },
-      "last_changed": "2026-05-29T02:54:55.972682+00:00",
-      "last_reported": "2026-05-29T02:54:55.972682+00:00",
-      "last_updated": "2026-05-29T02:54:55.972682+00:00",
+      "last_changed": "2026-05-29T03:14:55.995139+00:00",
+      "last_reported": "2026-05-29T03:14:55.995139+00:00",
+      "last_updated": "2026-05-29T03:14:55.995139+00:00",
       "context": {
-        "id": "01KSRTFZZ44DVJNX7EZ2AER722",
+        "id": "01KSRVMKVV7B7YEV9NZNWHTYS9",
         "parent_id": null,
         "user_id": null
       }
