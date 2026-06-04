@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T03:30:01.491591",
+  "timestamp": "2026-06-04T03:45:03.192714",
   "data": [
     {
       "entity_id": "sensor.pv_power",
@@ -22,7 +22,7 @@
     },
     {
       "entity_id": "sensor.active_power",
-      "state": "0",
+      "state": "-5",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -30,18 +30,18 @@
         "icon": "mdi:transmission-tower",
         "friendly_name": "aktuelle Netzeinspeisung"
       },
-      "last_changed": "2026-06-04T01:29:53.819112+00:00",
-      "last_reported": "2026-06-04T01:29:58.819895+00:00",
-      "last_updated": "2026-06-04T01:29:53.819112+00:00",
+      "last_changed": "2026-06-04T01:45:01.824600+00:00",
+      "last_reported": "2026-06-04T01:45:01.824600+00:00",
+      "last_updated": "2026-06-04T01:45:01.824600+00:00",
       "context": {
-        "id": "01KT840KCVVRZ6DP38ZFYX2DDB",
+        "id": "01KT84WA40Y2RXNFDSD1BG6ZTS",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.house_consumption",
-      "state": "217",
+      "state": "216",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -49,18 +49,18 @@
         "icon": "mdi:power-plug-outline",
         "friendly_name": "aktueller Verbrauch"
       },
-      "last_changed": "2026-06-04T01:29:58.830880+00:00",
-      "last_reported": "2026-06-04T01:29:58.830880+00:00",
-      "last_updated": "2026-06-04T01:29:58.830880+00:00",
+      "last_changed": "2026-06-04T01:45:01.835772+00:00",
+      "last_reported": "2026-06-04T01:45:01.835772+00:00",
+      "last_updated": "2026-06-04T01:45:01.835772+00:00",
       "context": {
-        "id": "01KT840R9EEETFMKXNS08TW42D",
+        "id": "01KT84WA4BFC4Z954RDPZXK615",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.battery_state_of_charge",
-      "state": "38",
+      "state": "37",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "%",
@@ -68,11 +68,11 @@
         "icon": "mdi:battery-high",
         "friendly_name": "Ladezustand Batterie"
       },
-      "last_changed": "2026-06-04T01:18:17.843145+00:00",
-      "last_reported": "2026-06-04T01:29:58.840363+00:00",
-      "last_updated": "2026-06-04T01:18:17.843145+00:00",
+      "last_changed": "2026-06-04T01:33:09.840977+00:00",
+      "last_reported": "2026-06-04T01:45:01.845299+00:00",
+      "last_updated": "2026-06-04T01:33:09.840977+00:00",
       "context": {
-        "id": "01KT83BBQK4Y8DM08XNFFD6JE7",
+        "id": "01KT846JTGNXWZQ1K2VNPWQ171",
         "parent_id": null,
         "user_id": null
       }
