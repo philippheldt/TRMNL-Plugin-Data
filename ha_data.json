@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-26T16:30:02.091946",
+  "timestamp": "2026-11-26T16:45:03.229688",
   "data": [
     {
       "entity_id": "sensor.eta_192_168_178_89_sys_aussentemperatur",
-      "state": "2.4",
+      "state": "2.3",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "\u00b0C",
         "device_class": "temperature",
         "friendly_name": "Au\u00dfentemperatur"
       },
-      "last_changed": "2026-11-26T15:24:42.921496+00:00",
-      "last_reported": "2026-11-26T15:24:42.921496+00:00",
-      "last_updated": "2026-11-26T15:24:42.921496+00:00",
+      "last_changed": "2026-11-26T15:36:42.922031+00:00",
+      "last_reported": "2026-11-26T15:36:42.922031+00:00",
+      "last_updated": "2026-11-26T15:36:42.922031+00:00",
       "context": {
-        "id": "01M8C7AZH9ZG7MQT6PCS9AYQD5",
+        "id": "01M8C80YNAV9ANCWDK4EWSA669",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.pv_power",
-      "state": "23",
+      "state": "9",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -40,7 +40,7 @@
     },
     {
       "entity_id": "sensor.active_power",
-      "state": "-1026",
+      "state": "-1056",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -48,18 +48,18 @@
         "icon": "mdi:transmission-tower",
         "friendly_name": "aktuelle Netzeinspeisung"
       },
-      "last_changed": "2026-11-26T15:29:57.411605+00:00",
-      "last_reported": "2026-11-26T15:29:57.411605+00:00",
-      "last_updated": "2026-11-26T15:29:57.411605+00:00",
+      "last_changed": "2026-11-26T15:45:02.413789+00:00",
+      "last_reported": "2026-11-26T15:45:02.413789+00:00",
+      "last_updated": "2026-11-26T15:45:02.413789+00:00",
       "context": {
-        "id": "01M8C7MJN33DC908V7J2E4NPS9",
+        "id": "01M8C8G6ED77NZ2M3ESQZNJ5BC",
         "parent_id": null,
         "user_id": null
       }
     },
     {
       "entity_id": "sensor.house_consumption",
-      "state": "1018",
+      "state": "1032",
       "attributes": {
         "state_class": "measurement",
         "unit_of_measurement": "W",
@@ -67,11 +67,11 @@
         "icon": "mdi:power-plug-outline",
         "friendly_name": "aktueller Verbrauch"
       },
-      "last_changed": "2026-11-26T15:29:57.428720+00:00",
-      "last_reported": "2026-11-26T15:29:57.428720+00:00",
-      "last_updated": "2026-11-26T15:29:57.428720+00:00",
+      "last_changed": "2026-11-26T15:45:02.431119+00:00",
+      "last_reported": "2026-11-26T15:45:02.431119+00:00",
+      "last_updated": "2026-11-26T15:45:02.431119+00:00",
       "context": {
-        "id": "01M8C7MJNMMBM26XTKY604V3ET",
+        "id": "01M8C8G6EZW34AVT8WX02GHD2R",
         "parent_id": null,
         "user_id": null
       }
